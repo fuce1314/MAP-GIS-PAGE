@@ -29,11 +29,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      -
-        name: Generate PDF
-        run: |
-          bash .github/scripts/generate-pdf.sh
-          cp -r pdf/ static/
+          
       - 
         name: Build Site
         run: yarn build
