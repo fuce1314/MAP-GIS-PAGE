@@ -18,6 +18,11 @@ features: # 可选的
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
 ---
+<p>
+    <iframe width="1138px"  height="500px"   frameborder="no" scrolling="no" allowtransparency="yes"src="https://lbs.baidu.com/jsdemo/demo/webgl2_1.htm">
+    </iframe>
+</p>
+
 <p align="center">
   <a class="become-sponsor" href="/pages/1b12ed/">支持这个项目</a>
 </p>
@@ -33,21 +38,27 @@ postList: none
 }
 </style>
 
+
+
+
 <br/>
 <p align="center">
-      <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank">
+      <a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank">
 <img src="https://img.shields.io/npm/v/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
-	<a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
-      <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
-      <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
+	<a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
+      <a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
+      <a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
 </p>
+
+
+
 
 <br/>
 <p align="center" style="color: #999;">
   赞助商 (给我瓜哥项目点个star)
 </p>
 <p align="center">
-  <a href="https://easy-dotnet.com/" target="_blank"><img src="https://easy-dotnet.com/img/logo.png" alt="npm" class="no-zoom" style="width: 300px;border-radius: 2px;"></a>
+  <a href="https://easy-dotnet.com/" target="_blank"><img src="https://easy-dotnet.com/img/logo.png" alt="npm" class="no-zoom" style="width: 100px;border-radius: 2px;"></a>
 </p>
 
 ## 🎖特别用户
