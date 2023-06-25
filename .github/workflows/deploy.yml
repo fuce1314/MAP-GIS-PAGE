@@ -24,22 +24,15 @@ jobs:
       - 
         name: Setup Dependencies
         run: yarn install
-      -
-        name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
           
       - 
         name: Build Site
         run: yarn build
+        
       - 
         name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          publish_branch: asf-site
-          publish_dir: ./build
+        uses: James oy-action@3.5.9  // 引用别人的部署插件
+        with: 
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}   // 这里需要设置成你的 token
+          BRANCH: gh-pages
+          FOLDER: ./dist
