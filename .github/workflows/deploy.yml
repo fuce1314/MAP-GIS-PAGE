@@ -34,5 +34,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with: 
           ssh-ky: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: ./docs/.vuepress/dist
