@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: Map-gis
+heroText: MAP-GIS
 tagline: 🚀为简化GIS开发而生
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
@@ -131,7 +131,7 @@ postList: none
     <tr>
       <td align="center" valign="middle">
         <img :src="$withBase('/img/qrcode/wxq.png')"  class="no-zoom" style="width:120px;margin: 10px;">
-        <p>Map-gis微信群(添加我微信备注"Map-gis进群")</p>
+        <p>MAP-GIS微信群(添加我微信备注"MAP-GIS进群")</p>
       </td>
       <td align="center" valign="middle">
         <img :src="$withBase('/img/qrcode/qqq.jpg')" alt="群号" class="no-zoom" style="width:120px;margin: 10px;">
