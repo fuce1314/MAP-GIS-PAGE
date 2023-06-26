@@ -44,11 +44,11 @@ postList: none
 
 <br/>
 <p align="center">
-      <a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank">
+      <a href="https://github.com/fuce1314/MAP-GIS" target="_blank">
 <img src="https://img.shields.io/npm/v/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
-	<a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
-      <a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
-      <a href="https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
+	<a href="https://github.com/fuce1314/MAP-GIS" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
+      <a href="https://github.com/fuce1314/MAP-GIS" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
+      <a href="https://github.com/fuce1314/MAP-GIS" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
 </p>
 
 
@@ -121,7 +121,7 @@ postList: none
 
 ## ⚡ 反馈与交流
 
-在使用过程中有任何问题和想法，请给我提 [Issue](https://github.com/xugaoyi/vuepress-theme-vdoing/issues)。
+在使用过程中有任何问题和想法，请给我提 [Issue](https://github.com/fuce1314/MAP-GIS/issues)。
 你也可以在Issue查看别人提的问题和给出解决方案。
 
 或者加入我们的交流群：

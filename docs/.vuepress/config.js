@@ -44,7 +44,7 @@ module.exports = {
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
-    repo: 'https://pan.baidu.com/s/1h12upnBMIux5yhYxeorF3w?pwd=7yru', // 导航栏右侧生成Github链接
+    repo: '/fuce1314/MAP-GIS', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
 
