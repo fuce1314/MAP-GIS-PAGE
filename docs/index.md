@@ -95,9 +95,9 @@ postList: none
   link: https://easy-security.aizuda.com
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
-- name: 还差一个
-  desc: 还差一个
-  link: https://
+- name: Easy-Retry
+  desc: 🚀一款基于服务治理的重试组件
+  link: https://www.easyretry.com
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
 
