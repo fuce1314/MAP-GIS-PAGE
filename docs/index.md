@@ -90,9 +90,9 @@ postList: none
   link: https://gitee.com/anwena/mongo-plus
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
-- name: 还差一个
-  desc: 还差一个
-  link: https://
+- name: Easy-Security
+  desc: 简单易用的鉴权框架 只需四步完成使用
+  link: https://easy-security.aizuda.com
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
 - name: 还差一个
