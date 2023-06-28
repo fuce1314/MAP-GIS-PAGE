@@ -20,7 +20,7 @@ postList: none
 ---
 <p>
 	<p align="center">项目运行效果</p>
-    <iframe width="1138px"  height="500px"   frameborder="no" scrolling="no" allowtransparency="yes"src="https://lbs.baidu.com/jsdemo/demo/webgl2_1.htm">
+    <iframe width="1138px"  height="500px"   frameborder="no" scrolling="no" allowtransparency="yes"src="https://lbsyun.baidu.com/jsdemo/demo/bSetHeading.htm">
     </iframe>
 </p>
 
